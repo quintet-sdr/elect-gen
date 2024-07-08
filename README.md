@@ -20,9 +20,9 @@ This system automates the abovementioned process using a genetic algorithm. We a
 
 Currently, we&CloseCurlyQuote;re a WIP, so you can only launch our services separately. Move on to the corresponding repository to learn more:
 
-- **[Core](/services/core/)** / Algorithm
-- **[Front End](/services/frontend/)** / Web-Based GUI
-- **[Back End](/services/backend/)** / Glue ✨
+- **[Core](https://gitlab.pg.innopolis.university/sdr-sum24/elect-gen-core)** / Algorithm
+- **[Front End](https://gitlab.pg.innopolis.university/sdr-sum24/elect-gen-frontend)** / Web-Based GUI
+- **[Back End](https://gitlab.pg.innopolis.university/sdr-sum24/elect-gen-backend)** / Glue ✨
 
 ## 🎉 Team
 
