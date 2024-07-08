@@ -31,7 +31,7 @@ We are [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/)&mdash;a team of 
 - **[Arsen Galiev](https://gitlab.pg.innopolis.university/a.galiev)** / Front-End Developer
 - **[Asqar Arslanov](https://gitlab.pg.innopolis.university/a.arslanov)** / Front-End Developer
 - **[Ilya-Linh Nguen](https://gitlab.pg.innopolis.university/i.nguen)** / DevOps Engineer
-- **[Kirill Efimovich](https://gitlab.pg.innopolis.university/m.malov)** / Core Engineer
+- **[Kirill Efimovich](https://gitlab.pg.innopolis.university/k.efimovich)** / Core Engineer
 - **[Maksim Malov](https://gitlab.pg.innopolis.university/m.malov)** / Core Engineer
 
 ## 📄 License
