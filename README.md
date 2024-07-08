@@ -26,7 +26,7 @@ Currently, we&CloseCurlyQuote;re a WIP, so you can only launch our services sepa
 
 ## 🎉 Team
 
-We are [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/)&mdash;a team of passionate developers and students of Innopolis University aiming to improve our beloved university&CloseCurlyQuote; IT infrastructure. Our team consists of five members:
+We are [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/)&mdash;a team of passionate developers and students of Innopolis University aiming to improve our beloved university&CloseCurlyQuote;s IT infrastructure. Our team consists of five members:
 
 - **[Arsen Galiev](https://gitlab.pg.innopolis.university/a.galiev)** / Front-End Developer
 - **[Asqar Arslanov](https://gitlab.pg.innopolis.university/a.arslanov)** / Front-End Developer
@@ -37,7 +37,5 @@ We are [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/)&mdash;a team of 
 ## 📄 License
 
 The project is licensed under the [MIT License](/LICENSE).
-
----
 
 (c) [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/) / [Innopolis University](https://innopolis.university/en/). All rights reserved.
