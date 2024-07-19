@@ -20,22 +20,22 @@ This system automates the abovementioned process using a genetic algorithm. We a
 
 Currently, we&CloseCurlyQuote;re a WIP, so you can only launch our services separately. Move on to the corresponding repository to learn more:
 
-- **[Core](https://gitlab.pg.innopolis.university/sdr-sum24/elect-gen-core)** / Algorithm
-- **[Front End](https://gitlab.pg.innopolis.university/sdr-sum24/elect-gen-frontend)** / Web-Based GUI
-- **[Back End](https://gitlab.pg.innopolis.university/sdr-sum24/elect-gen-backend)** / Glue ✨
+- **[Core](https://github.com/quintet-sdr/elect-gen-core)** / Algorithm
+- **[Front End](https://github.com/quintet-sdr/elect-gen-frontend)** / Web-Based GUI
+- **[Back End](https://github.com/quintet-sdr/elect-gen-backend)** / Glue ✨
 
 ## 🎉 Team
 
-We are [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/)&mdash;a team of passionate developers and students of Innopolis University aiming to improve our beloved university&CloseCurlyQuote;s IT infrastructure. Our team consists of five members:
+We are [SDR](https://github.com/quintet-sdr/)&mdash;a team of passionate developers and students of Innopolis University aiming to improve our beloved university&CloseCurlyQuote;s IT infrastructure. Our team consists of five members:
 
-- **[Arsen Galiev](https://gitlab.pg.innopolis.university/a.galiev)** / Front-End Developer
-- **[Asqar Arslanov](https://gitlab.pg.innopolis.university/a.arslanov)** / Front-End Developer
-- **[Ilya-Linh Nguen](https://gitlab.pg.innopolis.university/i.nguen)** / DevOps Engineer
-- **[Kirill Efimovich](https://gitlab.pg.innopolis.university/k.efimovich)** / Core Engineer
-- **[Maksim Malov](https://gitlab.pg.innopolis.university/m.malov)** / Core Engineer
+- **[Arsen Galiev](https://github.com/projacktor)** / Front-End Developer
+- **[Asqar Arslanov](https://github.com/asqarslanov)** / Full-Stack Developer
+- **[Ilya-Linh Nguen](https://github.com/Pickpusha)** / DevOps Engineer
+- **[Kirill Efimovich](https://github.com/lanebo1)** / Core Engineer
+- **[Maksim Malov](https://github.com/newspec)** / Core Engineer
 
 ## 📄 License
 
 The project is licensed under the [MIT License](/LICENSE).
 
-(c) [SDR](https://gitlab.pg.innopolis.university/sdr-sum24/) / [Innopolis University](https://innopolis.university/en/). All rights reserved.
+(c) [SDR](https://github.com/quintet-sdr/) / [Innopolis University](https://innopolis.university/en/). All rights reserved.
