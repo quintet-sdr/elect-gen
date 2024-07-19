@@ -1,9 +1,9 @@
 [submodule "services/backend"]
 	path = services/backend
-	url = git@gitlab.pg.innopolis.university:sdr-sum24/elect-gen-backend.git
+	url = git@github.com:quintet-sdr/elect-gen-backend.git
 [submodule "services/core"]
 	path = services/core
-	url = git@gitlab.pg.innopolis.university:sdr-sum24/elect-gen-core.git
+	url = git@github.com:quintet-sdr/elect-gen-core.git
 [submodule "services/frontend"]
 	path = services/frontend
-	url = git@gitlab.pg.innopolis.university:sdr-sum24/elect-gen-frontend.git
+	url = git@github.com:quintet-sdr/elect-gen-frontend.git
